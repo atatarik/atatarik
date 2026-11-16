@@ -1,3 +1,4 @@
 Hi im Aidan
 
-visit my [github](github.com/atatarik)!
+visit my github:
+github.com/atatarik!
